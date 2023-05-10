@@ -676,11 +676,11 @@ p {
   color: #542748;
 }
 
-.single-service:hover figure .fa-sass {
+.single-service:hover figure .fa-python {
   color: #cc6599;
 }
 
-.single-service:hover figure .fa-gulp {
+.single-service:hover figure .fa-leaf {
   color: #00759d;
 }
 
@@ -1000,7 +1000,7 @@ textarea.input-field {
     margin: 0 25px;
   }
   .main-header {
-    background-image: url(../img/header-bg-min.jpg);
+    background-image: url(../img/head-img.png);
   }
   .main-nav .toggle {
     display: block;
@@ -1065,7 +1065,7 @@ textarea.input-field {
 
 @media all and (max-width: 992px) {
   .main-header {
-    background-image: url(../img/header-bg-min.jpg);
+    background-image: url(../img/head-img.png);
   }
   .skills .section-title h2:after {
     left: 37%;
